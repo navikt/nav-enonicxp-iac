@@ -1,9 +1,9 @@
 {
   "https://www.nav.no": "https://www-q1.nav.no",
-  "https://familie.nav.no": "https://familie-q1.nav.no",
-  "https://foreldrepenger.nav.no": "https://foreldrepenger-q1.nav.no",
   "https://arbeidsgiver.nav.no": "https://arbeidsgiver-q1.nav.no",
   "https://arbeidsplassen.nav.no": "https://arbeidsplassen-q1.nav.no",
-  "https://veiledearbeidssoker.nav.no": "https://veiledearbeidssoker-q1.nav.no",
-  "https://tjenester.nav.no": "https://tjenester-q1.nav.no"
+  "https://familie.nav.no": "https://familie-q1.nav.no",
+  "https://foreldrepenger.nav.no": "https://foreldrepenger-q1.nav.no",
+  "https://tjenester.nav.no": "https://tjenester-q1.nav.no",
+  "https://veiledearbeidssoker.nav.no": "https://veiledearbeidssoker-q1.nav.no"
 }
