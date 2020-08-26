@@ -1,0 +1,12 @@
+[
+  {
+    "title":"Personopplysninger",
+    "text":"Her kan du se opplysninger som NAV har registrert om deg.",
+    "uri":"https://www.nav.no/person/personopplysninger/"
+  },
+  {
+    "title":"Utlevering av personopplysninger",
+    "text":"Dette er en logg som viser hvilke opplysninger vi har utlevert til forsikringsselskap basert på samtykke du har gitt på Altinn.",
+    "uri":"https://www.nav.no/person/personopplysninger/dsop"
+  }
+]
