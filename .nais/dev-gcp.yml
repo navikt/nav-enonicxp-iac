@@ -8,7 +8,7 @@ metadata:
     team: personbruker
 spec:
   image: {{image}}:{{version}}
-  port: 8088
+  port: 8080
   liveness:
     path: /isAlive
     initialDelay: 10
