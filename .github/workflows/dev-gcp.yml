@@ -20,7 +20,7 @@ jobs:
           docker push $IMAGE_REGISTRY/$IMAGE_NAME:$IMAGE_VERSION
       - name: Generate nais variables
         run: |
-          cat > .nais/vars.yaml <<EOF
+          cat > .nais/vars.yml <<EOF
           image: $IMAGE_REGISTRY/$IMAGE_NAME
           version: $IMAGE_VERSION
           EOF
@@ -28,5 +28,5 @@ jobs:
         env:
           CLUSTER: dev-gcp
           APIKEY: ${{ secrets.NAIS_DEPLOY_APIKEY }}
-          RESOURCE: .nais/dev-gcp.yaml
-          VARS: .nais/vars.yaml
+          RESOURCE: .nais/dev-gcp.yml
+          VARS: .nais/vars.yml
