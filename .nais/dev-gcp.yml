@@ -16,8 +16,8 @@ spec:
     path: /admin/tool/_/asset/com.enonic.xp.app.standardidprovider:1599561110/images/enonic.svg
     initialDelay: 10
   replicas:
-    min: 2
-    max: 4
+    min: 1
+    max: 1
   ingresses:
     - https://xp.dev.nav.no
   resources:
