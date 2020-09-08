@@ -10,10 +10,10 @@ spec:
   image: {{image}}:{{version}}
   port: 8080
   liveness:
-    path: /admin/tool
+    path: /admin/tool/_/asset/com.enonic.xp.app.standardidprovider:1599561110/images/enonic.svg
     initialDelay: 10
   readiness:
-    path: /admin/tool
+    path: /admin/tool/_/asset/com.enonic.xp.app.standardidprovider:1599561110/images/enonic.svg
     initialDelay: 10
   replicas:
     min: 2
