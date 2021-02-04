@@ -8,5 +8,6 @@
   "https://foreldrepenger.nav.no": "https://foreldrepenger.dev.nav.no",
   "https://mininnboks.nav.no": "https://mininnboks-q.nav.no",
   "https://tjenester.nav.no": "https://tjenester-q1.nav.no",
-  "https://veiledearbeidssoker.nav.no": "https://www.dev.nav.no/arbeid/no"
+  "https://veiledearbeidssoker.nav.no": "https://www.dev.nav.no/arbeid/no",
+  "/_/": "https://www-q1.nav.no/_/"
 }
