@@ -1,5 +1,5 @@
 {
-  "https://www.nav.no": "https://www.dev.nav.no",
+  "https://www.nav.no": "http://localhost:3000",
   "https://aktivitetsplan.nav.no": "https://aktivitetsplan-q.nav.no",
   "https://arbeidsgiver.nav.no": "https://arbeidsgiver-q.nav.no",
   "https://arbeidsplassen.nav.no": "https://arbeidsplassen-q.nav.no",
